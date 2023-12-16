@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.*
 class GreetingController {
 
     @GetMapping
-    fun createTask() = "hey!"
+    fun createTask() = "Hello World!"
 
 }
