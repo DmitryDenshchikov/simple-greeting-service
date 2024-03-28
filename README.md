@@ -1,0 +1,1 @@
+### This project was created for the article [Solving CORS headaches during local development with NGINX](https://medium.com/@HereAndBeyond/solving-cors-headaches-during-local-development-with-nginx-e0dfc76b3851)
